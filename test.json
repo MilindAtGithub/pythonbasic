@@ -1,0 +1,21 @@
+{
+"applicationType": "Full App",
+"referenceId": "INA001171",
+"fullApplication":
+  {"personalDetails":
+    {"mobilePhone": "m1m31YPvV/vuI/eHGxfN1g==",
+    "email": "veena.m@tavant.com"
+    }
+
+  },
+  "applicantIndex": 0,
+  "createdDate": null,
+  "loanNumber": "7202027675",
+  "document_Upload":
+    {"conditions": [
+                    {"conditionInfo":
+                    {"documentCategory": "Misc", "conditionName": "1008 - Transmittal Summary", "externalFlag": true},
+                      "documents": [{"uploadedStatus": "COMPLETED", "fileName": "QA_Test.docx", "retryCount": "10", "uploadedDate": null},
+                        {"uploadedStatus": "COMPLETED", "fileName": "QA_Test.docx", "retryCount": "7", "uploadedDate": null}]},
+      {"conditionInfo": {"documentCategory": "Legal", "conditionName": "1003 - Final", "externalFlag": true},
+         "documents": [{"uploadedStatus": "COMPLETED", "fileName": "QA_Test.docx", "retryCount": "9", "uploadedDate": null}]}]}, "externalconditions": {"categoryList": [{"category": "Legal", "items": [{"conditionStatus": "vip", "name": "1003 - Final", "date": "04/23/2019 12:31:48 AM", "extStatus": "In progress"}]}, {"category": "Misc", "items": [{"conditionStatus": "open", "name": "1008 - Transmittal Summary", "date": "04/23/2019 12:32:00 AM", "extStatus": "Rerequested"}]}, {"category": "Income", "items": [{"conditionStatus": "close", "name": "4506T - Customer", "date": "04/25/2019 09:55:13 PM", "extStatus": "Cleared"}, {"conditionStatus": "open", "name": "BINCM06: Red Flag - Employment", "date": "04/30/2019 03:34:54 AM", "extStatus": "Requested"}]}, {"category": "Credit", "items": [{"conditionStatus": "open", "name": "BCRED01: Address", "date": "04/30/2019 03:28:48 AM", "extStatus": "Rerequested"}]}]}}
